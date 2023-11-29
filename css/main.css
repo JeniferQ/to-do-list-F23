@@ -7,24 +7,48 @@
 body {
     background-color: rgb(194, 215, 228);
     font-family: "Playpen Sans", Calibri, sans-serif;
-    color: rgb(16, 21, 35);
-}
-
-main {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    color: black;
 }
 
 #whiteboard {
     margin: auto;
+    position: relative;
     border: 20px solid rgb(176, 178, 206);
-    align-self: center;
-    width: 1200px;
-    justify-content: center;
-    height: 600px;
+    width: 1300px;
+    height: 550px;
+    display: flex;
     background-color: rgb(135, 99, 99);
     
+}
+
+#pin-1 {
+    padding: 0;
+    margin: 0;
+    max-width: 70px;
+    left: 240px;
+    bottom: 220px;
+    z-index: 1;
+    position: relative;
+}
+
+#pin-2 {
+    padding: 0;
+    margin: 0;
+    max-width: 70px;
+    bottom: 140px;
+    left: 250px;
+    z-index: 1;
+    position: relative;
+}
+
+#pin-3 {
+    padding: 0;
+    margin: 0;
+    max-width: 70px;
+    left: 240px;
+    bottom: 220px;
+    z-index: 1;
+    position: relative;
 }
 
 .sticky-note-1 {
@@ -32,7 +56,7 @@ main {
     height: 300px;
     background-color: yellow;
     display: flex;
-    margin: 60px 20px 0 10px;
+    margin-top: 70px;
     box-shadow: -10px 10px;
 }
 
@@ -41,16 +65,16 @@ main {
     height: 300px;
     background-color: rgb(255, 83, 160);
     display: flex;
-    margin: 10px;
+    margin-top: 150px;
     box-shadow: -10px 10px;
 }
 
 .sticky-note-3 {
     width: 350px;
     height: 300px;
-    background-color: rgb(81, 119, 255);
+    background-color: rgb(120, 149, 255);
     display: flex;
-    margin: 10px;
+    margin-top: 70px;
     box-shadow: -10px 10px;
 }
 
@@ -69,7 +93,7 @@ article {
 
 article h2 {
     color: black;
-    padding: 4px 8px;
+    padding: 12px 8px 4px 8px;
 }
 
 ul {

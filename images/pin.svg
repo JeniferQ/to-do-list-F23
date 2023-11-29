@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.82 14.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9e1522;
+        stroke: #9e1522;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #ed1c24;
+        stroke: #ed1c24;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: #e6e7e8;
+        stroke: #737577;
+      }
+    </style>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <polygon class="cls-4" points="1.66 12.62 3.82 8.5 5.18 9.58 1.66 12.62"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <ellipse class="cls-2" cx="5.11" cy="8.24" rx="3.17" ry="3.59" transform="translate(-4.56 7.53) rotate(-53.99)"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <ellipse class="cls-1" cx="5.75" cy="7.36" rx="1" ry="1.09" transform="translate(-3.59 7.68) rotate(-53.99)"/>
+    <line class="cls-1" x1="6.59" y1="4.15" x2="4.81" y2="6.81"/>
+    <line class="cls-1" x1="8.93" y1="6.03" x2="6.4" y2="8.23"/>
+    <ellipse class="cls-1" cx="7.14" cy="6" rx=".75" ry=".85" transform="translate(-1.91 8.25) rotate(-53.99)"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <ellipse class="cls-2" cx="9.44" cy="3.28" rx="2.65" ry="3" transform="translate(1.24 8.99) rotate(-53.99)"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <line class="cls-3" x1="8.81" y1="5.22" x2="8.81" y2="5.22"/>
+    <path class="cls-3" d="m7.31,2.05c-.08.23-.27.84-.06,1.56.09.32.25.58.42.79"/>
+  </g>
+</svg>
