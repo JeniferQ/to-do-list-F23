@@ -5,19 +5,19 @@
 }
 
 body {
-    background-color: rgb(194, 215, 228);
+    background-color: rgb(56, 160, 178);
     font-family: "Playpen Sans", Calibri, sans-serif;
     color: black;
 }
 
-#whiteboard {
+#cork-board {
     margin: auto;
     position: relative;
-    border: 20px solid rgb(176, 178, 206);
+    border: 20px solid rgb(192, 194, 219);
     width: 1300px;
     height: 550px;
     display: flex;
-    background-color: rgb(135, 99, 99);
+    background: url(../images/background.jpg);
     
 }
 
